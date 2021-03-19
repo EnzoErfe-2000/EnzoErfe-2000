@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on managing projects
 - 📫 How to reach me: enzoerfe2000@gmail.com (Personal) / enzo@mysoftinn.com (Company)
 
+# Practice Git
+This is a repo to learn GIT at Softinn. Let's try.
+
 <!---
 EnzoErfe-2000/EnzoErfe-2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
