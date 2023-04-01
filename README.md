@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning how to use Git on all my future projetcs
 - 🌱 I’m currently learning VisualStudio, Git and SourceTree
 - 💞️ I’m looking to collaborate on managing projects
-- 📫 How to reach me: enzoerfe2000@gmail.com (Personal) / enzo@mysoftinn.com (Company)
+- 📫 How to reach me: enzoerfe2000@gmail.com (Personal)
 
 <!---
 EnzoErfe-2000/EnzoErfe-2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
